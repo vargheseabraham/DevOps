@@ -1,1 +1,1 @@
-$PSVersionTable
+Write-Host "$PSVersionTable"
